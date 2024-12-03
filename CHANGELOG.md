@@ -1,5 +1,17 @@
 ## 1.0.0
 
+## 1.1.0
+
+### Minor Changes
+
+- 7b0ef28: major SDK update
+
+### Patch Changes
+
+- Updated dependencies [7b0ef28]
+  - @platforma-open/milaboratories.vdj-gene-usage.model@1.1.0
+  - @platforma-open/milaboratories.vdj-gene-usage.ui@1.1.0
+
 ## 1.0.2
 
 ### Patch Changes
